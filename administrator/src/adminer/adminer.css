@@ -1,0 +1,8 @@
+/* .classdiv{
+    width: 100%;
+    height: 825px;
+    background-color: #1D2831;
+  } */
+  .divList,.divList1,.divList2,.divList3,.divList4,.divList5,.divList8,.divList9{
+    display: none;
+  }

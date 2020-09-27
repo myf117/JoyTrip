@@ -1,0 +1,50 @@
+body{
+    position: relative;
+}
+.airaddones{
+    background-color: #000C17;
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    right:200px;
+    top: 60px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: white;
+    padding-left: 120px;
+    padding-top: 15px;
+}
+.airaddones input{
+    width: 200px;
+    height: 30px;
+    margin: 12px 20px;
+    color: black;
+}
+.submitts{
+    width: 200px;
+    height: 40px;
+    border: none;
+    outline: none;
+    position: absolute;
+    right:750px;
+    top: 490px;
+}
+.submitt22{
+    width: 200px;
+    height: 40px;
+    border: none;
+    outline: none;
+    position: absolute;
+    right:250px;
+    top: 490px;
+}
+.submitts:hover{
+    color: white;
+    background-color: #1890FF;
+  
+}
+.submitt22:hover{
+    color: white;
+    background-color: #1890FF;
+}
